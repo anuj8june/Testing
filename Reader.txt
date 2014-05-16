@@ -1,1 +1,11 @@
 Hello world
+git config --global http.proxy http://10.93.0.37:3333
+git config --global https.proxy http://10.93.0.37:3333
+git clone https://github.com......url.......filename.git
+go into the folder of the repository
+create a file called ...
+git add example.extension
+git commit -a -m "Message for the commit"
+git push origin
+now check github
+
